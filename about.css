@@ -11,3 +11,17 @@
     background-repeat: unset;
     background-image: url('https://images.unsplash.com/photo-1631774577666-9ce632e70af7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 }
+
+
+.img_con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.bggg {
+    background-repeat: unset;
+    background-size:cover;
+    background-image: url("https://static.wixstatic.com/media/af5392_5aa57c653a0e476c8e86421efd9c5d5a~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/af5392_5aa57c653a0e476c8e86421efd9c5d5a~mv2.jpg");
+}
